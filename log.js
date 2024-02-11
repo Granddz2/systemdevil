@@ -1,0 +1,20 @@
+
+module.exports = {
+  serverId: '1020195405851541554', 
+  logChannels: {
+    messageDelete: '1055243349730275449',
+    messageEdit: '1091774883895201815',
+    roleAdd: '1091774883895201815' ,
+    roleRemove: '1091774883895201815' ,
+    roleCreate: '1091774883895201815',
+    roleDelete: '1091774883895201815',
+    channelCreate: '1091774883895201815',
+    channelDelete: '1091774883895201815',
+    memberJoin: '1091774883895201815',
+    memberLeave: '1091774883895201815',
+    imageDelete: '1091774883895201815',
+    membernick:'1091774883895201815',
+    memberMute: '1091774883895201815',
+    voice: '1091774883895201815',
+}
+};
